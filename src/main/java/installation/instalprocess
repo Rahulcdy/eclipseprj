@@ -1,0 +1,16 @@
+1. Create a new project
+	- Maven Project
+		- org.apache.maven.archetype-quickstart 1.1 - Internal
+		
+2. Add Selenium Dependency in pom.xml
+	- https://mvnrepository.com/
+		-	search for java selenium - 3.141.59
+		
+3. Download chromedriver
+	- https://googlechromelabs.github.io/chrome-for-testing/
+		- relevant chromedriver version 64 bit
+		
+4. Extract chromedriver and save it in a folder
+	- Copy the path of chromedriver folder and use in source code
+
+5. Create Java class
